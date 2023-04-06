@@ -2,9 +2,9 @@
 
 # Main Repo
 
-To make the code work, one can import all the modules from the [Main Repo](https://github.com/harshvs4/torch_cv_wrapper).
+To make the code work, one can import all the modules from the [Main Repo](https://github.com/harshvs4/codewrapper).
 
-Model Used - [Custom_Resnet](https://github.com/harshvs4/torch_cv_wrapper/blob/main/model/custom_resnet.py)
+Model Used - [Custom_Resnet](https://github.com/harshvs4/codewrapper/blob/main/model/custom_resnet.py)
 
 # Training Logs
 ```
